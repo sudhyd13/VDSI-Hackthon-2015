@@ -12,6 +12,8 @@
 <script type="text/javascript" src="scripts/plugins/jqplot.categoryAxisRenderer.min.js"></script>
 <script type="text/javascript" src="scripts/plugins/jqplot.pointLabels.min.js"></script>
 
+<link type="text/css" rel="stylesheet" href="css/jquery.jqplot.min.css"></link>
+
 <script type="text/javascript">
 $(document).ready(function(){
  //alert("In Document Ready")
